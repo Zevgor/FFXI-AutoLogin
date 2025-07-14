@@ -1,7 +1,9 @@
 Simple Windower -> POL -> FFXI Log In script in Python.
 
 You will need to update the following with your machine's path, but I've used Windower's defauly install location in the code:
+
 windower_launch_param = r'C:\Program Files (x86)\PlayOnline\SquareEnix\Windower\Windower.exe --p Default Profile'
+
 windower_dir = r'C:\Program Files (x86)\PlayOnline\SquareEnix\Windower'
 
 and lastly, update the .env file with your password:
