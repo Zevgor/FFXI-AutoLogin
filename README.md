@@ -8,4 +8,3 @@ and lastly, update the .env file with your password:
 SQX_PASSWORD=password
 
 The .bat file will also need updated with wherever you place this script and it's .venv file.
-You can remove the 'pause' line to automatically close command prompt once the script is finished.
