@@ -7,6 +7,7 @@ windower_launch_param = r'C:\Program Files (x86)\PlayOnline\SquareEnix\Windower\
 windower_dir = r'C:\Program Files (x86)\PlayOnline\SquareEnix\Windower'
 
 and lastly, update the .env file with your password:
+
 SQX_PASSWORD=password
 
 The .bat file will also need updated with wherever you place this script and it's .venv file.
